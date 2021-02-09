@@ -18,8 +18,9 @@
 
 ## Technologies
 
-- Django
-- Docker
+-   [Django](https://pypi.org/project/Django/)
+-   [djangorestframework](https://pypi.org/project/djangorestframework/)
+-   [Docker](https://www.docker.com/)
 
 ## Plans
 
