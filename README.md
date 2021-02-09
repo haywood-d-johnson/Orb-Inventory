@@ -1,0 +1,30 @@
+<h1 align="center">:package: Haywood D. Johnson :package:</h1>
+<h6 align="center">Application to keep track stuff I own</h6>
+
+## Table Of Contents
+
+-   [Description](#description)
+-   [Folder Structure](#folder-structure)
+-   [Getting Started](#getting-started)
+-   [Technologies](#technologies)
+-   [Plans](#plans)
+-   [Support](#support)
+
+## Description
+
+## Folder Structure
+
+## Getting Started
+
+## Technologies
+
+- Django
+- Docker
+
+## Plans
+
+## Support
+
+If you find this and maybe it helps a bit, maybeeee... consider buying me a coffee? :laughing:
+
+<a href="https://www.buymeacoffee.com/haywooddjohnson" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
