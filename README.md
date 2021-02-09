@@ -1,4 +1,4 @@
-<h1 align="center">:package: Haywood D. Johnson :package:</h1>
+<h1 align="center">:package: Orb Inventory :package:</h1>
 <h6 align="center">Application to keep track stuff I own</h6>
 
 ## Table Of Contents
