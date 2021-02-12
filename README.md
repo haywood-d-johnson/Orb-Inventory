@@ -14,6 +14,7 @@
 
 ## Folder Structure
 
+```
 .
 ├── app
 │ ├── app
@@ -28,6 +29,7 @@
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
 ## Getting Started
 
