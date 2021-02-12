@@ -14,6 +14,21 @@
 
 ## Folder Structure
 
+.
+├── app
+│ ├── app
+│ │ ├── asgi.py
+│ │ ├── **init**.py
+│ │ ├── settings.py
+│ │ ├── urls.py
+│ │ └── wsgi.py
+│ └── manage.py
+├── docker-compose.yml
+├── Dockerfile
+├── LICENSE
+├── README.md
+└── requirements.txt
+
 ## Getting Started
 
 ## Technologies
@@ -21,6 +36,7 @@
 -   [Django](https://pypi.org/project/Django/)
 -   [djangorestframework](https://pypi.org/project/djangorestframework/)
 -   [Docker](https://www.docker.com/)
+-   [Travis-CI](https://travis-ci.org/)
 
 ## Plans
 
