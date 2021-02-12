@@ -1,6 +1,8 @@
 <h1 align="center">:package: Orb Inventory :package:</h1>
 <h6 align="center">Application to keep track stuff I own</h6>
 
+[![Build Status](https://travis-ci.org/haywood-d-johnson/Orb-Inventory.svg?branch=main)](https://travis-ci.org/haywood-d-johnson/Orb-Inventory)
+
 ## Table Of Contents
 
 -   [Description](#description)
