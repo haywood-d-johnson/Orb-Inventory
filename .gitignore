@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Personal development
-run.sh
+run_test.sh
