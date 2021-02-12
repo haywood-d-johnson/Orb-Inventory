@@ -19,18 +19,28 @@
 ```
 .
 ├── app
-│ ├── app
-│ │ ├── asgi.py
-│ │ ├── **init**.py
-│ │ ├── settings.py
-│ │ ├── urls.py
-│ │ └── wsgi.py
-│ └── manage.py
+│   ├── app
+│   │   ├── asgi.py
+│   │   ├── __init__.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   ├── core
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── __init__.py
+│   │   ├── migrations
+│   │   │   └── __init__.py
+│   │   ├── models.py
+│   │   └── tests
+│   │       └── __init__.py
+│   └── manage.py
 ├── docker-compose.yml
 ├── Dockerfile
 ├── LICENSE
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── run_test.sh
 ```
 
 ## Getting Started
