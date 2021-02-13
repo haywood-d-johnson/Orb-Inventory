@@ -39,8 +39,7 @@
 ├── Dockerfile
 ├── LICENSE
 ├── README.md
-├── requirements.txt
-└── run_test.sh
+└── requirements.txt
 ```
 
 ## Getting Started
